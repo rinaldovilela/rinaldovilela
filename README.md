@@ -1,4 +1,4 @@
-## | Olá! Eu sou Rinaldo Vilela Dev Jr. Front-End 👋
+## | Olá, sou Rinaldo Vilela Dev Jr. Front-End 👋
 
 I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
 
