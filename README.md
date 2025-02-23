@@ -27,7 +27,11 @@ I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/rinaldovilela/count.svg" /></p>
 <p align="center">
-  <img align="center" src="https://profile-counterr.softexgarantias.workers.dev/" alt="Contador de Visitas" />
+  <img align="center" src="https://hits.dwyl.com/rinaldovilela/meu-repositorio.svg" alt="Contador de Visitas" />
 </p>
+
+<!-- <p align="center">
+  <img align="center" src="https://profile-counterr.softexgarantias.workers.dev/" alt="Contador de Visitas" />
+</p> -->
 
 
