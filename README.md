@@ -30,3 +30,4 @@ I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
   <img align="center" src="https://profile-counterr.softexgarantias.workers.dev/" alt="Contador de Visitas" />
 </p>
 
+
