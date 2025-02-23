@@ -23,6 +23,7 @@ I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div>
 
