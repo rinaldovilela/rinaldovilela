@@ -42,7 +42,8 @@ I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
 
 - **Desenvolvimento de Interfaces Web Responsivas** utilizando React, Next.js e Tailwind CSS  na Bem Vivendo de Tecnologia.
 - **Desenvolvimento de plataforma de cadastro e gerenciamento de eventos culturais** utilizando no Front-end : React, Next.js e Tailwind CSS e Backend .: NodeJS, MySQL.
-- **Desenvolvimento de Agente de IA vinculado a um sistema de gerenciamento** Front: Nextjs e Tailwind; Backend: PostgresSQL, VectorDB, FastApi, LangChain, LLM - Gemini, dentre outras bibliotecas do python para IA. 
+- **Desenvolvimento de Agente de IA vinculado a um sistema de gerenciamento** Front: Nextjs e Tailwind; Backend: PostgresSQL, VectorDB, FastApi, LangChain, LLM - Gemini, dentre outras bibliotecas do python para IA.
+- **Prompt Engineer - Context Engineer**
 
 
 
