@@ -32,6 +32,7 @@ I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
 ## | Certificados e Conquistas
 
 - **Análise e Desenvolvimento de Sistemas** pela Uninassau (1600 horas, 2025)
+- **Análise e Desenvolvimento de Sistemas** pela Universidade Tira Dentes - UNIT - Embarque Digital (1600 horas, 2025)
 - **Formação Acelerada em Programação - Front End** pela Softex Pernambuco (144 horas, 2024)
 - **Formação Acelerada em Programação - Back End JavaScript** pela Softex Pernambuco (144 horas, 2024)
 - **Residência em Desenvolvimento Front-End** na Bem Vivendo de Tecnologia (Softex Pernambuco, 2024)
@@ -40,7 +41,9 @@ I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
 ## | Experiência e Contribuições Profissionais
 
 - **Desenvolvimento de Interfaces Web Responsivas** utilizando React, Next.js e Tailwind CSS  na Bem Vivendo de Tecnologia.
-- **Atendimento a Clientes** como Analista Telemarketing na CSU Digital, desenvolvendo habilidades de comunicação e resolução de problemas.
+- **Desenvolvimento de plataforma de cadastro e gerenciamento de eventos culturais** utilizando no Front-end : React, Next.js e Tailwind CSS e Backend .: NodeJS, MySQL.
+- **Desenvolvimento de Agente de IA vinculado a um sistema de gerenciamento** Front: Nextjs e Tailwind; Backend: PostgresSQL, VectorDB, FastApi, LangChain, LLM - Gemini, dentre outras bibliotecas do python para IA. 
+
 
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/rinaldovilela/count.svg" /></p>
