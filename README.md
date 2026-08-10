@@ -1,4 +1,4 @@
-## | Olá, sou Rinaldo Vilela Dev Jr. Front-End 👋
+## | Olá, sou Rinaldo Vilela Dev FullStack | Analista de Automação jr 👋
 
 I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
 
