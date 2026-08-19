@@ -50,7 +50,7 @@ I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
 
 
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/rinaldovilela/count.svg" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rinaldovilela&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"> </p>
 
 
 
