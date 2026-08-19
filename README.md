@@ -6,9 +6,10 @@ I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rinaldovilela/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rinaldoalvesvilela@hotmail.com)
 
-[![Rinaldo GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinaldovilela&show_icons=true&theme=dracula)](https://github.com/rinaldovilela)
+[![Rinaldo GitHub Stats](https://github-stats-extended.vercel.app/api?username=rinaldovilela&show_icons=true&theme=dracula)](https://github.com/rinaldovilela)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinaldovilela&layout=compact&theme=dracula)](https://github.com/rinaldovilela)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=rinaldovilela&layout=compact&theme=dracula)](https://github.com/rinaldovilela)
+
 
 
 ## | Linguagens e Tecnologias que utilizo
