@@ -6,8 +6,10 @@ I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rinaldovilela/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rinaldoalvesvilela@hotmail.com)
 
-![rinaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=rinaldovilela&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinaldovilela&layout=compact&theme=dracula)](https://github.com/rinaldovilela/github-readme-stats)
+[![Rinaldo GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinaldovilela&show_icons=true&theme=dracula)](https://github.com/rinaldovilela)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinaldovilela&layout=compact&theme=dracula)](https://github.com/rinaldovilela)
+
 
 ## | Linguagens e Tecnologias que utilizo
 
@@ -32,7 +34,7 @@ I'm a self-taught passionate FrontEnd developer from Brazil :brazil:
 ## | Certificados e Conquistas
 
 - **Análise e Desenvolvimento de Sistemas** pela Uninassau (1600 horas, 2025)
-- **Análise e Desenvolvimento de Sistemas** pela Universidade Tira Dentes - UNIT - Embarque Digital (1600 horas, 2025)
+- **Análise e Desenvolvimento de Sistemas** pela Universidade Tira Dentes - UNIT - Embarque Digital (Cursando)
 - **Formação Acelerada em Programação - Front End** pela Softex Pernambuco (144 horas, 2024)
 - **Formação Acelerada em Programação - Back End JavaScript** pela Softex Pernambuco (144 horas, 2024)
 - **Residência em Desenvolvimento Front-End** na Bem Vivendo de Tecnologia (Softex Pernambuco, 2024)
